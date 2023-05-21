@@ -6,3 +6,5 @@ and I'm following it's lessons step by step, coding even the most
 simple lessons that I already have a strong knowledge about.
 My goal is to expand my experience and to gain new and effective
 ways to write my code.
+
+Link to this specific assignment: https://www.theodinproject.com/lessons/foundations-recipes#assignment
