@@ -1,0 +1,58 @@
+body {
+    background-color: #9DB2BF;
+}
+
+
+
+.center {
+    display: block;
+    width: 550px;
+    margin:16px auto;
+    align-self: center;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+  }
+
+  ol {
+    display: inline-block;
+    text-align: left;
+  }
+
+.title {
+    margin: 50px 0px 30px 0px;
+}
+
+.bigFont {
+    font-size: 18px;
+}
+
+.icon-link {
+    margin: 0px 10px 50px 10px;
+    width: 84px;
+    height: 84px;
+    background-color: #27374D;
+    padding: 8px;
+    border-radius: 16px;
+}
+
+.block-dis {
+    display: block;
+    margin: 16px auto;
+}
+
+
+#home-link {
+    margin: 0px 10px 10px 10px;
+}
+
+.home-block {
+    display: inline-block;
+}
+
+.bigger-pad {
+    padding: 20px;
+}
